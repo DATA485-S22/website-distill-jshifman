@@ -1,12 +1,14 @@
-name: "ads-website-distill"
-title: "&quot;Test-Distill-Website&quot;"
+name: "Distill tutorial"
+title: "My First Blog"
 description: |
-  &quot;Test-Distill-Website&quot;
+  My First Blog! What will I post?
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Posts"
+      href: hello-world.html
     - text: "About"
       href: about.html
 output: distill::distill_article

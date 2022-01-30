@@ -1,0 +1,24 @@
+---
+title: "Welcome to My First Blog"
+description: |
+  Welcome to My First Blog. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Joseph Shifman 
+    url: https://github.com/jshifman
+date: 01-30-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
