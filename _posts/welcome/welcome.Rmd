@@ -1,8 +1,8 @@
 ---
 title: "Welcome to My First Blog"
 description: |
-  Welcome to My First Blog. We hope you enjoy 
-  reading what we have to say!
+  Welcome to Joseph's first blog. I hope you enjoy 
+  reading what I have to say!
 author:
   - name: Joseph Shifman 
     url: https://github.com/jshifman

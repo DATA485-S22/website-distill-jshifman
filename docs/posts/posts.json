@@ -1,8 +1,25 @@
 [
   {
+    "path": "posts/2022-01-30-hello-world/",
+    "title": "Test of a Distill Post",
+    "description": "First post on my new blog.",
+    "author": [
+      {
+        "name": "Joseph Shifman",
+        "url": "https://github.com/jshifman"
+      }
+    ],
+    "date": "2022-01-30",
+    "categories": [],
+    "contents": "\r\nWhy does swiss cheese have holes? Why are pizzas baked in circles, sliced into “triangles”, and served in a square box? Why do cats simultaneously want attention and hate attention?\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-01T09:52:10-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My First Blog",
-    "description": "Welcome to My First Blog. We hope you enjoy \nreading what we have to say!",
+    "description": "Welcome to Joseph's first blog. I hope you enjoy \nreading what I have to say!",
     "author": [
       {
         "name": "Joseph Shifman",
@@ -13,7 +30,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-01-30T12:25:46-08:00",
-    "input_file": {}
+    "last_modified": "2022-02-01T09:55:32-08:00",
+    "input_file": "welcome.knit.md"
   }
 ]
