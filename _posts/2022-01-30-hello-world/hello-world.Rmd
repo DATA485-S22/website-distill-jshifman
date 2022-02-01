@@ -19,3 +19,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Why does swiss cheese have holes? Why are pizzas baked in circles, sliced into *"triangles"*, and served in a square box? Why do cats simultaneously want attention and hate attention?
 
+![Jinx the Cat](scale.jpg)

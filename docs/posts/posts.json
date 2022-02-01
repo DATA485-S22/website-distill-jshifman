@@ -11,10 +11,10 @@
     ],
     "date": "2022-01-30",
     "categories": [],
-    "contents": "\r\nWhy does swiss cheese have holes? Why are pizzas baked in circles, sliced into “triangles”, and served in a square box? Why do cats simultaneously want attention and hate attention?\r\n\r\n\r\n\r\n",
+    "contents": "\r\nWhy does swiss cheese have holes? Why are pizzas baked in circles, sliced into “triangles”, and served in a square box? Why do cats simultaneously want attention and hate attention?\r\nJinx the Cat\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-02-01T09:52:10-08:00",
-    "input_file": {}
+    "last_modified": "2022-02-01T10:18:47-08:00",
+    "input_file": "hello-world.knit.md"
   },
   {
     "path": "posts/welcome/",
