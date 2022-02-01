@@ -1,0 +1,22 @@
+---
+title: "Test of a Distill Post"
+description: |
+  First post on my new blog.
+author:
+  - name: Joseph Shifman
+    url: https://github.com/jshifman
+date: 2022-01-30
+output:
+  distill::distill_article:
+    self_contained: false
+draft: FALSE
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Why does swiss cheese have holes? Why are pizzas baked in circles, sliced into *"triangles"*, and served in a square box? Why do cats simultaneously want attention and hate attention?
+
+![Jinx the Cat](scale.jpg)
